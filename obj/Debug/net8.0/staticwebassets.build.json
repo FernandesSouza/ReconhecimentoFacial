@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DExig6gGVoRYsTonwMGGqzEi2qcasundiUIgISvxN5g=",
+  "Source": "DetectarFace",
+  "BasePath": "_content/DetectarFace",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

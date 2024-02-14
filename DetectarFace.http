@@ -1,0 +1,6 @@
+@DetectarFace_HostAddress = http://localhost:5098
+
+GET {{DetectarFace_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
