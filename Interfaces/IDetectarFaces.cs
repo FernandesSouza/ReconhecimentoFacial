@@ -1,4 +1,4 @@
-﻿namespace DetectarFace.Services
+﻿namespace DetectarFace.Interfaces
 {
     public interface IDetectarFaces
     {

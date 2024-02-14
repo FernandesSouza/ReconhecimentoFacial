@@ -2,19 +2,17 @@
 using Emgu.CV;
 using System.Drawing;
 using Emgu.CV.CvEnum;
+using DetectarFace.Interfaces;
 
 namespace DetectarFace.Services
 {
     public class DetectarFaces : IDetectarFaces
     {
-
         private readonly CascadeClassifier haarCascade;
-
         public DetectarFaces()
         {
             haarCascade = new CascadeClassifier("haarcascade_frontalface_default.xml");
         }
-
         public Task<double> CalculateEuclideanDistance(double[] features1, double[] features2)
         {
             if (features1.Length != features2.Length)
@@ -65,7 +63,7 @@ namespace DetectarFace.Services
         {
             Mat imageResult = CvInvoke.Imread("C:\\Users\\Igor\\Desktop\\CsharpEstudos\\FaceDetect\\DetectarFace\\DetectarFace\\Images\\faceResult2.jpg", ImreadModes.Grayscale);
 
-            Mat referenceImage = CvInvoke.Imread("C:\\Users\\Igor\\Desktop\\CsharpEstudos\\FaceDetect\\DetectarFace\\DetectarFace\\Images\\faceResult.jpg", ImreadModes.Grayscale);
+            Mat referenceImage = CvInvoke.Imread("C:\\Users\\Igor\\Desktop\\CsharpEstudos\\FaceDetect\\DetectarFace\\DetectarFace\\Images\\faceResult1.jpg", ImreadModes.Grayscale);
 
             Rectangle[] referenceFaces = haarCascade.DetectMultiScale(referenceImage, 1.2, 10);
             Rectangle[] detectedFaces = haarCascade.DetectMultiScale(imageResult, 1.2, 10);
