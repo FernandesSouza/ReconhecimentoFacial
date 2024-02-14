@@ -14,6 +14,6 @@ Este endpoint é usado principalmente para fins de teste. Ele permite verificar 
 
 ## GET --> /Api/Detectar/
 
-Este endpoint compara as imagens resultantes do método POST usando a fórmula de distância Euclidiana. Se a distância mínima obtida for maior que 100.00, o endpoint retorna FALSE. Caso contrário, retorna TRUE.
+Este endpoint compara as imagens resultantes do método POST usando a fórmula de distância Euclidiana. Se a distância obtida for maior que 100.00, o endpoint retorna FALSE. Caso contrário, retorna TRUE.
 
 
