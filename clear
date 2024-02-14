@@ -1,0 +1,30 @@
+[33mcommit 601ed43edaebf8c93518210900b99e4e415477cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: d7d0d69 f448377
+Author: Fernandes <igorfernandes.muaythai@gmail.com>
+Date:   Wed Feb 14 17:28:11 2024 -0300
+
+    Merge branch 'master' of https://github.com/FernandesSouza/ReconhecimentoFacial
+
+[33mcommit d7d0d69d13b111e0b29480d3dd8f698f2ed2d26a[m
+Author: Fernandes <igorfernandes.muaythai@gmail.com>
+Date:   Wed Feb 14 17:27:18 2024 -0300
+
+    feat/Login com JWT
+
+[33mcommit f448377ecf00489444d8e6728a44edb5ce78585e[m
+Author: Igor Fernandes <122069548+FernandesSouza@users.noreply.github.com>
+Date:   Wed Feb 14 12:03:49 2024 -0300
+
+    Update README.md
+
+[33mcommit 6e5295561581a7373c531e5bfddea0c459874260[m
+Author: Igor Fernandes <122069548+FernandesSouza@users.noreply.github.com>
+Date:   Wed Feb 14 12:02:28 2024 -0300
+
+    Create README.md
+
+[33mcommit 1358e5dfcf056b3006fa04d9895410f49e089674[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Fernandes <igorfernandes.muaythai@gmail.com>
+Date:   Wed Feb 14 11:31:59 2024 -0300
+
+    feat/first-commit
