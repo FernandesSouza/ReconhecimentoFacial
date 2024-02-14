@@ -62,3 +62,14 @@ C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\obj\Deb
 C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\obj\Debug\net8.0\DetectarFace.pdb
 C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\obj\Debug\net8.0\DetectarFace.genruntimeconfig.cache
 C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\obj\Debug\net8.0\ref\DetectarFace.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\JWT.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Igor\Desktop\CsharpEstudos\FaceDetect\DetectarFace\DetectarFace\obj\Debug\net8.0\DetectarFace.sourcelink.json

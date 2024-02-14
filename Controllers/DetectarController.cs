@@ -1,4 +1,4 @@
-﻿using DetectarFace.Services;
+﻿using DetectarFace.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
